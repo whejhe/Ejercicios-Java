@@ -15,7 +15,7 @@ public class PruebaConexion {
         try {
             conn = Conexion.getConnection();
             st = conn.createStatement();
-            rs = st.executeQuery("SELECT * FROM CUSTOMERS WHERE customer_id <= 10");   
+            rs = st.executeQuery("SELECT region_name FROM regions join ");   
             
             while(rs.next()) {
                 long id = rs.getLong(1);

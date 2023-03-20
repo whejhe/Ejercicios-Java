@@ -18,13 +18,13 @@ public class PruebaInsert {
             System.out.println("Se han insertado "+numFilas+" filas");
             
         } catch(SQLException e) {
-            System.out.println("Ocurrió algún error al conectar u operar con la BD");
+            System.out.println("Ocurrió algún error al conectar con la BD");
         } finally {
             try {  
                 Conexion.close(st);  
                 Conexion.close(conn);
             } catch(SQLException e) {
-                System.out.println("Ocurrió una excepción al cerrar la BD");
+                System.out.println("Error al cerrar la BD");
             }
         }
         

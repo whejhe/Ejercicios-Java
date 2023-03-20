@@ -15,13 +15,13 @@ public class PruebaConexion {
         try {
             conn = Conexion.getConnection();
             st = conn.createStatement();
-            rs = st.executeQuery("SELECT * FROM CUSTOMERS WHERE customer_id <= 10");   
+            rs = st.executeQuery("SELECT * FROM countries");   
             
             while(rs.next()) {
-                long id = rs.getLong(1);
-                String name = rs.getString(2);
-                double credit = rs.getDouble(5);
-                System.out.println("Id = "+id+", name = "+name+", credit = "+credit);
+                String countryId = rs.getString(1);
+                String countryName = rs.getString(2);
+                int regionId = rs.getInt(5);
+                System.out.println("Id = "+countryId+", name = "+countryName+", Id Region = "+regionId);
             }
             
         } catch(SQLException e) {
