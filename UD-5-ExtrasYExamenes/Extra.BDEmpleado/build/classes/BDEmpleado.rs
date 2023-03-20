@@ -1,0 +1,3 @@
+SortbyCategory
+SortbySalarioAsc
+BDEmpleado

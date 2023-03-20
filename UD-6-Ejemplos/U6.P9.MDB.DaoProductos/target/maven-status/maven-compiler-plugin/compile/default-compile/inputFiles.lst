@@ -1,0 +1,17 @@
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\DaoManagerFactory.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\utilidades\DBUtils.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\dao\excepciones\TransactionException.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\dao\interfaces\ProductCategoryDao.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\negocio\Product.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\dao\interfaces\Dao.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\dao\excepciones\NotFoundException.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\implementacion\oracle\DaoManagerOracle.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\dao\excepciones\DataAccessException.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\dao\interfaces\ProductDao.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\implementacion\oracle\ProductDaoOracle.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\aplicacion\PruebaDaoCategorias.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\implementacion\oracle\ProductCategoryDaoOracle.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\dao\interfaces\TransactionInterface.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\negocio\ProductCategory.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\implementacion\oracle\TransactionOracle.java
+G:\Mi unidad\EDUCACIÓN\NetBeansProjects\U6 - Manejo de BBDD relacionales\U6.P9.MDB.DaoProductos\src\main\java\es\tuespiral\u6\p1\conexion\persistencia\dao\interfaces\DaoManager.java
